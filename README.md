@@ -2,5 +2,3 @@
 
 Run the Examples program.
 
-## Blog posts
-
